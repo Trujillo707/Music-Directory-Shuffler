@@ -7,8 +7,8 @@ This program simply adds 3 random digits to the front of all files in a given di
 Assumes you give it a proper directory, anything that happens due to a mistake is on the user. 
 
 # Instructions
-Compile my .cpp with the compiler of your choice then run it in a terminal.
-This program was made with C++20 support, however it should compile and run fine on C++17. Run this in any terminal of your choice, the location of the executable you compiled doesn't matter at all as well. 
+Compile my [Music File Randomizer.cpp](https://github.com/Trujillo707/Music-Directory-Shuffler/blob/d22097cac7d20ef3a99352103263779f61b20400/Music%20File%20Randomizer/Music%20File%20Randomizer.cpp) with the compiler of your choice then run it in a terminal.
+This program was made with C++20 support, however it should compile and run fine on C++17. Run this in any terminal of your choice, the location of the executable you compiled doesn't matter at all as well. If you have no clue what I am talking about, many others online can explain this better than I can.
 
 # Here is a picture of my cat.
 
