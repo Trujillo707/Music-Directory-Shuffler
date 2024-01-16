@@ -7,7 +7,7 @@ This program simply adds 3 random digits to the front of all files in a given di
 Assumes you give it a proper directory, anything that happens due to a mistake is on the user. 
 
 # Instructions
-Compile my .cpp with the compiler of your choice then run it in a terminal. Make sure you paste/type in the path for the desired directory correctly.
+Compile my .cpp with the compiler of your choice then run it in a terminal.
 This program was made with C++20 support, however it should compile and run fine on C++17. Run this in any terminal of your choice, the location of the executable you compiled doesn't matter at all as well. 
 
 # Here is a picture of my cat.
